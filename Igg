@@ -79,7 +79,7 @@ end
 
 -- GUI setup
 local gui = Instance.new("ScreenGui")
-gui.Name = "SamScriptsOfficial_GUI"
+gui.Name = "zenoscx_GUI"
 gui.Parent = CoreGui
 gui.ResetOnSpawn = false
 
